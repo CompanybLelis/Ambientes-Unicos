@@ -2,7 +2,7 @@
 
 Este é um projeto web desenvolvido para criar uma página baseada em um layout fornecido no software Figma, utilizando HTML e CSS.
 
-![Cover Ambientes Únicos](https://github.com/CompanybLelis/Ambientes-Unicos/assets/69200014/b54d6c9d-8963-480c-9aad-ca94d8ce74f3)
+![Cover Ambientes Únicos](https://github.com/CompanybLelis/Ambientes-Unicos/assets/69200014/38297a0f-5da4-4711-b68c-3f3636dc6eb8)
 
 ## Descrição
 
